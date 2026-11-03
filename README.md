@@ -10,6 +10,13 @@
 
 </p>
 
+# 📸 Dashboard Preview
+
+## Main Dashboard
+
+<img width="1001" height="562" alt="image" src="https://github.com/user-attachments/assets/baa93988-3e12-45cd-baa6-38d486b03046" />
+
+
 # 📊 Project Overview
 
 <p>
@@ -39,8 +46,32 @@ The dashboard helps understand production performance, sales trends, product-lev
 
 # 🛠️ Tools & Technologies
 
-|         Tool       |       Purpose         |            Power Query            |              DAX             |       Microsoft Excel          |  
-| Microsoft Power BI | Dashboard development |  Data cleaning and transformation | Calculated measures and KPIs |  Data preparation and analysis |
+|         Tool       |               Purpose               | 
+| -------------------|-------------------------------------|
+| Microsoft Power BI |         Dashboard development       |  
+|  Power Query       |    Data cleaning and transformation |
+|    DAX             |       Calculated measures and KPIs  |
+|  Microsoft Excel   |             Microsoft Excel         |
+| Data Visualization |   Business insights and reporting   |
+
+
+# 📈 Key Dashboard Features
+
+**1.** KPI Cards: Quick overview of important business metrics.
+
+**2.** Sales Analysis: Analyze sales performance and trends.
+
+**3.** Production Analysis: Monitor manufacturing performance.
+
+**4.** Product Analysis: Understand product-wise contribution.
+
+**5.** Interactive Filters: Explore data using slicers and filters.
+
+**6.** Visual Analytics: Present complex business information through charts and graphs.
+
+
+
+
 
 
 
