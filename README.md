@@ -1,5 +1,9 @@
-# BISCUIT-MANUFACTURING-DASHBOARD-POWERBI
-This is an interactive Biscuit Manufacturing Dashboard using Power BI to analyze production, sales, revenue, product performance, and operational efficiency. 
+# 🍪 Biscuit Manufacturing Dashboard | Power BI
 
-It provides data-driven & AI-driven insights through dynamic visualizations, KPIs, and interactive filters to support better business decision-making.
+<p align="center">
 
+  <img src="https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Data%20Analytics-Project-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" />
+
+</p>
